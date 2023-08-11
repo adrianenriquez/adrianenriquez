@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Adrian Enriquez</h1>
-<h3 align="center">Web Developer | Seeking the Right Career Path | Embracing Growth through Mistakes | Exploring Possibilities</h3>
+<h1 align="center">Hi 👋, I'm Adrian Enriquez, a Front-end Web Developer</h1>
+<h3 align="center">I create websites and web applications, working with companies around the world to bring digital visions to life.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianenriquez&label=Profile%20views&color=0e75b6&style=flat" alt="adrianenriquez" /> </p>
 
 <p align="left"> <a href="https://twitter.com/adriandenriquez" target="blank"><img src="https://img.shields.io/twitter/follow/adriandenriquez?logo=twitter&style=for-the-badge" alt="adriandenriquez" /></a> </p>
 
-- 📝 I regularly write articles on [https://adrianenriquez.com](https://adrianenriquez.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
