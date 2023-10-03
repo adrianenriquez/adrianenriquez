@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/adriandenriquez" target="blank"><img src="https://img.shields.io/twitter/follow/adriandenriquez?logo=twitter&style=for-the-badge" alt="adriandenriquez" /></a> </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianenriquez&hide_progress=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
