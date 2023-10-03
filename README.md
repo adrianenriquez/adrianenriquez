@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianenriquez&label=Profile%20views&color=0e75b6&style=flat" alt="adrianenriquez" /> </p>
 
-<p align="left"> <a href="https://twitter.com/adriandenriquez" target="blank"><img src="https://img.shields.io/twitter/follow/adriandenriquez?logo=twitter&style=for-the-badge" alt="adriandenriquez" /></a> </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianenriquez&hide_progress=true)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adriandenriquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adriandenriquez" height="30" width="40" /></a>
