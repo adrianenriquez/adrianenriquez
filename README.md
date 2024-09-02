@@ -25,4 +25,4 @@ Issued August 2024
 
 ## Education
 
-Bachelor of Science in Information Technology, University of the East, 2014
+### Bachelor of Science in Information Technology, University of the East - Manila, 2014
