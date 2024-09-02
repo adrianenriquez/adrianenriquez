@@ -4,23 +4,23 @@
 
 ## 🧑‍💻 Experience
 
-### [Knose/Skuad](https://www.knose.com.au/), WordPress Developer & Admin (October 2023 - Present), 🇵🇭 Remote
+### WordPress Developer & Admin (October 2023 - Present), [Knose/Skuad](https://www.knose.com.au/), 🇵🇭 Remote
 
-### [Lab19](https://lab19.dev/), Web Engineer (August 2019 - July 2021), 🇬🇧 Remote
+### Web Engineer (August 2019 - July 2021), [Lab19](https://lab19.dev/), 🇬🇧 Remote
 
-### [Salary Board](https://salaryboard.com/), Front-end Developer (Nov 2017 - May 2019), 🇸🇬 Remote
+### Front-end Developer (Nov 2017 - May 2019), [Salary Board](https://salaryboard.com/), 🇸🇬 Remote
 
-### [Zenvoy](https://www.zenvoy.com/), Full Stack Web Developer (Sep 2015 - Jun 2017), 🇺🇸 Remote
+### Full Stack Web Developer (Sep 2015 - Jun 2017), [Zenvoy](https://www.zenvoy.com/), 🇺🇸 Remote
 
-### [Call Loop](https://www.callloop.com/), Front-end Web Developer (Feb 2015 - Aug 2015), 🇺🇸 Remote
+### Front-end Web Developer (Feb 2015 - Aug 2015), [Call Loop](https://www.callloop.com/), 🇺🇸 Remote
 
-### [Powered by PACE Inc.](https://www.facebook.com/PoweredbyPACE/), Front-end Web Developer (Jul 2014 - Sep 2014), 🇨🇦 Remote
+### Front-end Web Developer (Jul 2014 - Sep 2014), [Powered by PACE Inc.](https://www.facebook.com/PoweredbyPACE/), 🇨🇦 Remote
 
-### [CalcMenu](https://www.calcmenu.com/), Junior Programmer (Nov 2013 - May 2014), 🇵🇭 On site
+### Junior Programmer (Nov 2013 - May 2014), [CalcMenu](https://www.calcmenu.com/), 🇵🇭 On site
 
 ## 🔗 Social Links
-- [Porfolio](https://adrianenriquez.com)
-- [StackOverflow](https://stackoverflow.com/users/3126509/adrian-enriquez) 
+### [Porfolio](https://adrianenriquez.com)
+### [StackOverflow](https://stackoverflow.com/users/3126509/adrian-enriquez) 
 
 ## 📚 Certifications
 
@@ -29,4 +29,4 @@ Issued August 2024
 
 ## 🎓 Education
 
-### Bachelor of Science in Information Technology, University of the East - Manila, 2014
+### Bachelor of Science in Information Technology, [University of the East - Manila](https://www.ue.edu.ph/mla/), 2014
