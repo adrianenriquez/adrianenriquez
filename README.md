@@ -4,11 +4,14 @@
 
 ## Experience
 
-### Knose - WordPress Developer & Admin
-October 2023 - Present
+### WordPress Developer & Admin (October 2023 - Present)
+#### Knose
 
-### Lab19 - Web Engineer
-August 2019 - July 2021
+### Web Engineer (August 2019 - July 2021)
+#### Lab19
+
+### Front-end Developer (Nov 2017 - May 2019)
+#### Salary Board
 
 ## Certifications
 
