@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianenriquez&label=Profile%20views&color=0e75b6&style=flat" alt="adrianenriquez" /> </p>
 
-## Experience
+## 🧑‍💻 Experience
 
 ### Knose/Skuad, WordPress Developer & Admin (October 2023 - Present), 🇵🇭 Remote
 
@@ -18,11 +18,11 @@
 
 ### CalcMenu, Junior Programmer (Nov 2013 - May 2014), 🇵🇭 On site
 
-## Certifications
+## 📚 Certifications
 
 ### Foundations of User Experience (UX) Design - Google
 Issued August 2024
 
-## Education
+## 🎓 Education
 
 ### Bachelor of Science in Information Technology, University of the East - Manila, 2014
