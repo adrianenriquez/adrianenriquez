@@ -1,6 +1,6 @@
 <h1 align="left">Hi👋, I'm Adrian! </h1>
 
-Full-stack Developer with more than 8 years of experience in web development, specializing in PHP, Laravel, Vue.js, Bootstrap, and WordPress. Currently working at Knose, I'm passionate about creating responsive, user-friendly web applications. Outside of work, I enjoy biking and working out. Open to collaboration and always eager to learn new things!
+Front-End Developer with more than 8 years of experience in web development, skilled in creating interactive, responsive user interfaces using React.js, Vue.js, JavaScript, and Bootstrap CSS. Also experienced in Full-Stack development with PHP and Laravel, and proficient in WordPress customization. Currently working at Knose as a WordPress Developer & Administrator. I enjoy building intuitive and engaging web experiences. In my free time, I love biking and working out. Open to new projects and collaboration opportunities!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianenriquez&label=Profile%20views&color=0e75b6&style=flat" alt="adrianenriquez" /> </p>
 
