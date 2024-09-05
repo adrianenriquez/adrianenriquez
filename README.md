@@ -3,6 +3,8 @@
 Front-End Developer with more than 8 years of experience in web development, skilled in creating interactive, responsive user interfaces using React.js, Vue.js, JavaScript, and Bootstrap CSS. Also experienced in Full-Stack development with PHP and Laravel, and proficient in WordPress customization. Currently working at Knose as a WordPress Developer & Administrator. I enjoy building intuitive and engaging web experiences. Open to new projects and collaboration opportunities!
 
 ## 📊 Github Stats
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianenriquez&label=Profile%20views&color=0e75b6&style=flat" alt="adrianenriquez" /> </p>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=adrianenriquez)](https://git.io/streak-stats)
 
 ## 🧑‍💻 Experience
@@ -34,6 +36,3 @@ Issued August 2024
 
 ### Bachelor of Science in Information Technology, [University of the East - Manila](https://www.ue.edu.ph/mla/), 2014
 
-
---------
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianenriquez&label=Profile%20views&color=0e75b6&style=flat" alt="adrianenriquez" /> </p>
