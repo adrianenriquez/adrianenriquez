@@ -2,6 +2,9 @@
 
 Front-End Developer with more than 8 years of experience in web development, skilled in creating interactive, responsive user interfaces using React.js, Vue.js, JavaScript, and Bootstrap CSS. Also experienced in Full-Stack development with PHP and Laravel, and proficient in WordPress customization. Currently working at Knose as a WordPress Developer & Administrator. I enjoy building intuitive and engaging web experiences. In my free time, I love biking and working out. Open to new projects and collaboration opportunities!
 
+## Github Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adrianenriquez)](https://git.io/streak-stats)
+
 ## 🧑‍💻 Experience
 
 ### WordPress Developer & Admin (October 2023 - Present), [Knose/Skuad](https://www.knose.com.au/), 🇵🇭 Remote
