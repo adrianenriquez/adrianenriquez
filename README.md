@@ -31,6 +31,8 @@ Front-End Developer with more than 8 years of experience in web development, ski
 
 ### [Foundations of User Experience (UX) Design](https://www.coursera.org/account/accomplishments/verify/6JK7BYZLOUWA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) - Coursera/Google
 Issued August 2024
+### [Certified Content Marketing Specialist](https://www.credly.com/badges/9054fa99-8acd-407e-a5c2-f5660e1a304e/public_url) - Digital Marketer
+Issued April 2020
 
 ## 🎓 Education
 
