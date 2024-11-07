@@ -1,6 +1,6 @@
 <h1 align="left">Hi👋, I'm Adrian! </h1>
 
-Front-End Developer with more than 8 years of experience in web development, skilled in creating interactive, responsive user interfaces using React.js, Vue.js, JavaScript, and Bootstrap CSS. Also experienced in Full-Stack development with PHP and Laravel, and proficient in WordPress customization. Currently working at Knose as a WordPress Developer & Administrator. I enjoy building intuitive and engaging web experiences. Open to new projects and collaboration opportunities!
+I create easy to use and beautifully functional websites and web apps.
 
 <br>
 
