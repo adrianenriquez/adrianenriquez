@@ -1,6 +1,6 @@
 <h1 align="left">Hi👋, I'm Adrian! </h1>
 
-I create easy to use and beautifully functional websites and web apps.
+I create easy to use, beautifully functional websites and web apps.
 
 <br>
 
