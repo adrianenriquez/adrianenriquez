@@ -1,7 +1,7 @@
 <h1 align="left">Hi👋, I'm Adrian! </h1>
 
-- I create easy to use, beautifully functional websites and web apps.
-- Currently working at [Knose](https://www.knose.com.au) as a WordPress Developer & Admin.
+I design and develop intuitive, beautifully functional websites and web apps.
+Currently building impactful digital experiences as a WordPress Developer at [Knose](https://www.knose.com.au).
 
 <br>
 
