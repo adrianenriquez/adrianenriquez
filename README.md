@@ -42,6 +42,8 @@ Currently building impactful digital experiences as a WordPress Developer at [Kn
 
 **- Vivien M., Head - Admin and Customer Engagement at Aaron Industrial Enterprises**
 
+<br>
+
 ## 📚 Certifications
 
 ### [Foundations of User Experience (UX) Design](https://www.coursera.org/account/accomplishments/verify/6JK7BYZLOUWA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) - Coursera/Google
