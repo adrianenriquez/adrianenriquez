@@ -44,11 +44,11 @@ Currently building impactful digital experiences as a WordPress Developer at [Kn
 
 > Worked fast, on time, easy to work with and superb deliverable. I've done many projects and this was one of the best experiences I've had. Thanks for all the great work and help! Highly recommended!
 
-**- Jon F., Founder Smaaht | Informed Fans**
+**- Jon F., Founder of Smaaht & Informed Fans**
 
 > Adrian is fast, structured and use best practices combined with excellent and tidy coding. He has very good communication, verbally and in writing. Adrian is exceptionally bright and skilled, he is highly recommended and we will hire him again.
 
-**- Nick B., CTO at Zenvoy | Thankz**
+**- Nick B., CTO at Zenvoy & Thankz**
 
 > We had the pleasure of working with Adrian for almost two years, and his professionalism and expertise made the entire process smooth and enjoyable. From the beginning, he demonstrated adaptability and a willingness to go above and beyond to meet our needs. His patience and knowledge were invaluable as he guided us through the development of our website. Working with someone as approachable and skilled as Adrian made a world of difference, and we are happy with the results. We wish him all the best in his future endeavors—he will be a valuable asset to any team!
 
