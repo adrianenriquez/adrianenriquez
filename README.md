@@ -36,6 +36,12 @@ Currently building impactful digital experiences as a WordPress Developer at [Kn
 
 <br>
 
+## 🌟 Testimonials
+> We had the pleasure of working with Adrian for almost two years, and his professionalism and expertise made the entire process smooth and enjoyable. From the beginning, he demonstrated adaptability and a willingness to go above and beyond to meet our needs. His patience and knowledge were invaluable as he guided us through the development of our website. Working with someone as approachable and skilled as Adrian made a world of difference, and we are happy with the results. We wish him all the best in his future endeavors—he will be a valuable asset to any team!
+
+
+**- Vivien M., Head - Admin and Customer Engagement at Aaron Industrial Enterprises**
+
 ## 📚 Certifications
 
 ### [Foundations of User Experience (UX) Design](https://www.coursera.org/account/accomplishments/verify/6JK7BYZLOUWA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) - Coursera/Google
