@@ -16,7 +16,7 @@ Currently building impactful digital experiences as a WordPress Developer at [Kn
 
 ### WordPress Developer & Admin (October 2023 – Present) — [Knose](https://www.knose.com.au/) 🇦🇺 (via [Ezygos](https://ezygos.com/) 🇵🇭), Remote
 
-### Web Engineer (August 2019 - July 2021), [Lab19](https://lab19.dev/), 🇬🇧 Remote
+### Web Engineer (August 2019 - July 2021), [Lab19]([https://lab19.dev/](https://www.crunchbase.com/organization/lab19)), 🇬🇧 Remote
 
 ### Front-end Developer (Nov 2017 - May 2019), [Salary Board](https://salaryboard.com/), 🇸🇬 Remote
 
