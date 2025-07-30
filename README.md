@@ -31,7 +31,6 @@ Currently building impactful digital experiences as a WordPress Developer at [Kn
 <br>
 
 ## 🔗 Social Links
-### [Porfolio](https://adrianenriquez.com)
 ### [StackOverflow](https://stackoverflow.com/users/3126509/adrian-enriquez) 
 
 <br>
