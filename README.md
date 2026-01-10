@@ -1,7 +1,5 @@
 <h1 align="left">Hi👋, I'm Adrian! </h1>
 
-I design and develop intuitive, beautifully functional websites and web apps.
-Currently building impactful digital experiences as a WordPress Developer at [Knose](https://www.knose.com.au).
 
 <br>
 
