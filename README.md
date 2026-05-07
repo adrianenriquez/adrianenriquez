@@ -12,11 +12,11 @@
 
 ## 🧑‍💻 Experience
 
-### Senior WordPress Develolper (Jan 2026 - Present) - [Technology Elite](https://technologyelite.com.ph/) 🇵🇭, Hybrid
+### Senior WordPress Developer (Jan 2026 - Present) - [Technology Elite](https://technologyelite.com.ph/) 🇵🇭, Hybrid
 
-### WordPress Developer & Admin (October 2023 – December 2025) — [Ezygos](https://ezygos.com/) 🇵🇭) Remote
+### WordPress Developer (Oct 2023 – Dec 2025) — [Ezygos](https://ezygos.com/), 🇵🇭, Remote
 
-### Web Engineer (August 2019 - July 2021), [Lab19]([https://lab19.dev/](https://www.crunchbase.com/organization/lab19)), 🇬🇧 Remote
+### Web Engineer (Aug 2019 - Jul 2021), [Lab19]([https://lab19.dev/](https://www.crunchbase.com/organization/lab19)), 🇬🇧 Remote
 
 ### Front-end Developer (Nov 2017 - May 2019), [Salary Board](https://salaryboard.com/), 🇸🇬 Remote
 
