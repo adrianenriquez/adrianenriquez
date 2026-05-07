@@ -12,7 +12,9 @@
 
 ## 🧑‍💻 Experience
 
-### WordPress Developer & Admin (October 2023 – December 2025) — [Knose](https://www.knose.com.au/) 🇦🇺 (via [Ezygos](https://ezygos.com/) 🇵🇭), Remote
+### Senior WordPress Develolper (Jan 2026 - Present) - [Technology Elite](https://technologyelite.com.ph/) 🇵🇭, Hybrid
+
+### WordPress Developer & Admin (October 2023 – December 2025) — [Ezygos](https://ezygos.com/) 🇵🇭) Remote
 
 ### Web Engineer (August 2019 - July 2021), [Lab19]([https://lab19.dev/](https://www.crunchbase.com/organization/lab19)), 🇬🇧 Remote
 
